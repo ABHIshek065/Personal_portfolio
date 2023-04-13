@@ -368,7 +368,7 @@ h3.my-profession {
   width: 80px;
   border-bottom: 10px solid var(--skin-color);
   border-right: 10px solid var(--skin-color);
-  right: 20px;
+  right: 5px;
   bottom: -40px;
 }
 
@@ -379,14 +379,15 @@ h3.my-profession {
   width: 80px;
   border-top: 10px solid var(--skin-color);
   border-left: 10px solid var(--skin-color);
-  left: -20px;
+  left: -5px;
   top: -40px;
 }
 
 .home .home-img img {
   margin: auto;
   border-radius: 5px;
-  height: 400px;
+  height: 380px;
+  width: 330px;
   box-shadow: 5px 10px 10px;
 }
 
@@ -861,16 +862,14 @@ h3.my-profession {
   display: block;
 }
 
-
 #contact .container .copyright p {
   padding: 5px 0 0 0;
   align-items: center;
   justify-content: center;
   text-align: center;
   color: var(--text-black-700);
-  }
-  
-  #contact .container .copyright p i 
-  {
-    color: red;
-  }
+}
+
+#contact .container .copyright p i {
+  color: red;
+}
