@@ -82,10 +82,7 @@ ul {
   display: none !important;
 }
 
-/* js Code */
-/* .main-content {
-  padding-left: 270px;
-} */
+
 
 .padd-15 {
   padding-left: 15px;
@@ -387,7 +384,7 @@ h3.my-profession {
   margin: auto;
   border-radius: 5px;
   height: 380px;
-  width: 330px;
+  width: 280px;
   box-shadow: 5px 10px 10px;
 }
 
