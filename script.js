@@ -8,6 +8,9 @@ var typed = new Typed(".typing", {
 });
 
 
+
+
+
 // Aside
 
 const nav = document.querySelector(".nav"),
