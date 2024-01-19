@@ -10,7 +10,7 @@ This is a  portfolio website created by Abhishek Patel, showcasing my skills, pr
 - [Contact Me](#contact-me)
 - [Theme Color Switcher](#theme-color-switcher)
 - [Contact Form Submission](#contact-form-submission)
-- [License](#license)
+  
 
 ## Introduction
 
